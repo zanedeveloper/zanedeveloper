@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was part of a verifed bot as a developer!
 - ⚡Aryan.#1111⚡
-![Stats](https://github-readme-stats.vercel.app/api?username=legendaryemoji&show_icons=false&theme=radical)
+- ![Stats](https://github-readme-stats.vercel.app/api?username=legendaryemoji&show_icons=false&theme=radical)
 
 
 
