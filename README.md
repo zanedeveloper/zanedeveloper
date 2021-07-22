@@ -7,8 +7,7 @@
 - Love Music 🎧
 - Have a Potato PC 💻💥
 - Need a better WiFi 🕸 
-- **Known Languages**: Bengali, Hindi, English, JavaScript & TypeScript
-- Hate Cuss, No Swearing please. 🤬 is uncool
+- **Known Languages**:JavaScript & TypeScript
 - Contact me on [Discord](https://discord.com)! **Tag:** Aryan.#2021
 - Currently undergoing burnout, so going a bit slow with the projects
 - I am really talkative 🗣 
