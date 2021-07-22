@@ -12,7 +12,7 @@
 - Currently undergoing burnout, so going a bit slow with the projects
 - I am really talkative 🗣 
 - Passionate about what I do or believe 🔥 
-- I like using *JavScript* and am learning Rust right now 
+- I like using *JavaScript* and am learning Rust right now 
 <br><br>
 - ![Stats](https://github-readme-stats.vercel.app/api?username=thebestdiscorddev&show_icons=false&theme=radical)
 
