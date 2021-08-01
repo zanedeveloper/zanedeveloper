@@ -1,10 +1,7 @@
 ### Hi there 👋
 > A Brief Bio About me
-- Gender: Male
+- he/him
 - Coder
-- Love Music 🎧
-- Have a Potato PC 💻💥
-- Need a better WiFi 🕸 
 - **Known Languages**: JavaScript, Vue, HTML, CSS, C++, C##, Java & TypeScript
 - Contact me on [Discord](https://discord.com)! **Tag:** Aryan.#2021
 - Currently undergoing burnout, so going a bit slow with the projects
