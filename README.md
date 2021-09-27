@@ -3,10 +3,10 @@
 - he/him
 - Coder
 - **Known Languages**: JavaScript, Vue, HTML, CSS, C++, C##, Java & TypeScript
-- Contact me on [Discord](https://discord.com)! **Tag:** Senpai.#9999
+- Contact me on [Discord](https://discord.com)! **Tag:** Zane.#2887
 - I like using *JavaScript* and I am learning Rust right now 
 <br><br>
-- ![Stats](https://github-readme-stats.vercel.app/api?username=thebestdiscorddev&show_icons=false&theme=radical)
+- ![Stats](https://github-readme-stats.vercel.app/api?username=zanedeveloper&show_icons=false&theme=radical)
 
 
 
